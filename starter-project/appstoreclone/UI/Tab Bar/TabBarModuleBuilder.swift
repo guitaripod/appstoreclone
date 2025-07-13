@@ -1,10 +1,3 @@
-//
-//  TabBarModuleBuilder.swift
-//  spacexnews
-//
-//  Created by Andrei Blaj on 1/22/20.
-//
-
 import UIKit
 
 class TabBarModuleBuilder {
@@ -15,3 +8,5 @@ class TabBarModuleBuilder {
         return tabBarController
     }
 }
+
+

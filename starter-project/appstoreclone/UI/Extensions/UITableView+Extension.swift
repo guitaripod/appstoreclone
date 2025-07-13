@@ -1,10 +1,3 @@
-//
-//  UITableView+Extension.swift
-//  appstoreclone
-//
-//  Created by Andrei Blaj on 10/6/20.
-//
-
 import UIKit
 
 extension UITableView {
@@ -22,4 +15,6 @@ extension UITableView {
         return cell
     }
 }
+
+
 

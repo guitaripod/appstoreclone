@@ -1,10 +1,3 @@
-//
-//  TodayView.swift
-//  appstoreclone
-//
-//  Created by Andrei Blaj on 10/6/20.
-//
-
 import UIKit
 
 class TodayView: UIViewController, UIScrollViewDelegate {
@@ -229,3 +222,5 @@ extension TodayView: UITableViewDelegate, UITableViewDataSource {
     }
     
 }
+
+

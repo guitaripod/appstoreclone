@@ -1,10 +1,3 @@
-//
-//  GenericTableViewCell.swift
-//  appstoreclone
-//
-//  Created by Andrei Blaj on 10/7/20.
-//
-
 import UIKit
 
 class GenericTableViewCell<View: UIView>: UITableViewCell {
@@ -42,3 +35,5 @@ class GenericTableViewCell<View: UIView>: UITableViewCell {
     }
     
 }
+
+

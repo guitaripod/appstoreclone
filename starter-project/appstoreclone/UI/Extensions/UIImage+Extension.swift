@@ -1,10 +1,3 @@
-//
-//  UIImage+Extension.swift
-//  appstoreclone
-//
-//  Created by Andrei Blaj on 10/6/20.
-//
-
 import UIKit
 
 extension UIImage {
@@ -19,6 +12,8 @@ extension UIImage {
     }
     
 }
+
+
 
 
 

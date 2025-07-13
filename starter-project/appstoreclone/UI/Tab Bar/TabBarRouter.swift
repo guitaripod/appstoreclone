@@ -1,10 +1,3 @@
-//
-//  TabBarRouter.swift
-//  spacexnews
-//
-//  Created by Andrei Blaj on 1/22/20.
-//
-
 import UIKit
 
 class TabBarRouter {
@@ -52,3 +45,5 @@ extension TabBarRouter {
     }
     
 }
+
+

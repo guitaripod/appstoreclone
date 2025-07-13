@@ -1,10 +1,3 @@
-//
-//  TabBarController.swift
-//  spacexnews
-//
-//  Created by Andrei Blaj on 1/22/20.
-//
-
 import UIKit
 
 typealias Tabs = (
@@ -31,3 +24,5 @@ class TabBarController: UITabBarController {
     }
     
 }
+
+

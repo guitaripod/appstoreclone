@@ -1,10 +1,3 @@
-//
-//  DetailView.swift
-//  appstoreclone
-//
-//  Created by Andrei Blaj on 10/6/20.
-//
-
 import UIKit
 
 class DetailView: UIViewController, UIScrollViewDelegate {
@@ -178,3 +171,5 @@ extension DetailView {
     }
 
 }
+
+

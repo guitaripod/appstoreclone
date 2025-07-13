@@ -1,10 +1,3 @@
-//
-//  CardView.swift
-//  appstoreclone
-//
-//  Created by Andrei Blaj on 10/6/20.
-//
-
 import UIKit
 
 class CardView: UIView {
@@ -424,3 +417,5 @@ extension CardView: UITableViewDelegate, UITableViewDataSource {
     }
     
 }
+
+
